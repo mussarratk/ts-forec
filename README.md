@@ -6,5 +6,7 @@ https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/h
 g-pro
 https://www.coursera.org/learn/time-series-data-visualization-techniques/ungradedLab/EwF91/time-series-data-visualization-and-analysis-techniques
 
+https://github.com/GoogleCloudPlatform/asl-ml-immersion/tree/master/notebooks/time_series_prediction/labs
+
 ![image](https://github.com/user-attachments/assets/e25fece6-0e65-4d2f-85c0-4dc7e36aabe5)
 
